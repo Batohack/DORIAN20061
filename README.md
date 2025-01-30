@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @DORIAN20061
+- 👋 Hi, I’m Dlionkol
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on my school group
+- 🌱 I’m currently learning computer science 
+- 💞️ I’m  collaborate in my school groups
 - 📫 How to reach me you have my personnel social media accounts
-- 😄 Pronouns: my Pronouns is Lolionhack
+- 😄 Pronouns: my Pronouns is Dlionkol
 - ⚡ Fun fact: i love sport and cybersecurity 
-
-<!---
-DORIAN20061/DORIAN20061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
